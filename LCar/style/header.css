@@ -1,0 +1,48 @@
+.header {
+	background-color: #100C08;
+	flex: initial;
+	align-items: center;
+	position: relative;
+}
+
+#logo {
+  height: 100px;
+  width: 130px;
+}
+
+.header a{
+	font-size: 40px;
+}
+
+.header a:link {
+
+	color: gold;
+	text-decoration: none;
+}
+
+
+/* visited link */
+.header a:visited {
+  color: gold;
+}
+
+/* mouse over link */
+.header a:hover {
+  color: #ff3385;
+  text-decoration: underline;
+}
+
+/* selected link */
+.header a:active {
+  color: white;
+} 
+
+table {
+	height: 120px;
+	width: all;
+	border: 1px;
+}
+
+th {
+	height: 50px;
+}

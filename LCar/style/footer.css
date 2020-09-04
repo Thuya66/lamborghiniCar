@@ -1,0 +1,43 @@
+.footer {
+	padding-top: 30;
+	width: 100%;
+}
+
+
+.footer img{
+	width: 50;
+	height: 50;
+}
+
+.footer a{
+	font-size: 20px;
+}
+
+.footer a:link {
+
+	color: white;
+	text-decoration: none;
+}
+
+
+/* visited link */
+.footer a:visited {
+  color: #cc0052;
+}
+
+/* mouse over link */
+.footer a:hover {
+  color: gold;
+  text-decoration: underline;
+}
+
+/* selected link */
+.footer a:active {
+  color: #ff3385;
+} 
+
+.footer table{
+	height: 70;
+	width: 100%;
+	background-color: #100C08;
+}
